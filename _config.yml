@@ -16,10 +16,10 @@ description: >-
   AVulns don't hide forever.
 
 # Site URL
-url: "https://dangbaokhoa.github.io"
+url: "https://bkshy.github.io"
 
 github:
-  username: dangbaokhoa
+  username: bkshy
 
 twitter:
   username: bkshyyy
@@ -28,7 +28,7 @@ social:
   name: BKShy
   email: khoatptk1@gmail.com
   links:
-    - https://github.com/dangbaokhoa
+    - https://github.com/bkshy
     - https://x.com/bkshyyy
     - https://www.linkedin.com/in/khoadangbao
 
@@ -83,7 +83,7 @@ comments:
     repo:
     issue_term:
   giscus:
-    repo: dangbaokhoa/dangbaokhoa.github.io
+    repo: bkshy/bkshy.github.io
     repo_id:
     category:
     category_id:
