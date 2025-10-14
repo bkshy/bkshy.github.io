@@ -68,7 +68,7 @@ theme_mode:
 cdn:
 
 # Avatar and social preview
-avatar: assets/img/misc/user_avatar.gif
+avatar: assets/img/misc/user_avatar1.gif
 social_preview_image:
 
 # TOC in posts
