@@ -4,7 +4,7 @@ date: 2025-09-28 00:00:00 +0000
 categories: [CTF, Web]
 tags: [ctf, writeup, web, java]
 image:
-  path: "assets/img/2025-10-14-Digital_Dragon_CTF/ctf-avatar.png"
+  path: "assets/img/2025-10-14-Digital_Dragon_CTF/ctf_avatar.jpg"
   alt: "Digital Dragon CTF avatar"
 ---
 
